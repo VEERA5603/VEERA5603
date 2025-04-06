@@ -85,6 +85,7 @@ Hi there! I'm **Veeramanikandan**, a passionate Engineer currently pursuing my B
 
 ## 📫 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-veera1011.github.io-000000?style=for-the-badge&logo=github&logoColor=white)](https://veera1011.github.io/Veera/)
 [![Email](https://img.shields.io/badge/Gmail-eveera5603@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eveera5603@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veeramanikandane335559312)
 [![GitHub](https://img.shields.io/badge/GitHub-VEERA5603-181717?style=for-the-badge&logo=github)](https://github.com/VEERA5603)

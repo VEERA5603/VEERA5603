@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Hi there! I'm **Veeramanikandan**, a passionate developer currently pursuing my Bachelor’s in Information Technology. I love solving real-world problems through code and continuously expanding my skillset. I'm deeply interested in full-stack development—both web and mobile—and currently diving into **ASP.NET** and **C#** to boost my backend expertise.
+Hi there! I'm **Veeramanikandan**, a passionate Engineer currently pursuing my Bachelor’s in Information Technology. I love solving real-world problems through code and continuously expanding my skillset. I'm deeply interested in full-stack development—both web and mobile—and currently diving into **ASP.NET** and **C#** to boost my backend expertise.
 
 > 🔎 I believe in learning by building, and every bug is just another puzzle waiting to be solved.
 

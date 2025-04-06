@@ -62,7 +62,7 @@ Hi there! I'm **Veeramanikandan**, a passionate Engineer currently pursuing my B
 
 ---
 
-## 📊 Project Involvement Status
+## 📊 Skills Status
 
 | Domain                    | Percentage Completed |
 |--------------------------|----------------------|

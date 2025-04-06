@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Veeramanikandan</h1>
 <p align="center">
   🎓 Final Year B.E. (Information Technology) Student at <strong>Annamalai University</strong> <br>
-  💻 Aspiring Full-Stack Engineer | 💡 Tech Explorer | 🔍 Lifelong Learner
+  💻 Aspiring Full-Stack Developer | 💡 Tech Explorer | 🔍 Lifelong Learner
 </p>
 
 ---
@@ -22,35 +22,44 @@ Hi there! I'm **Veeramanikandan**, a passionate developer currently pursuing my 
   - **Machine Learning & AI**
   - **Backend Engineering**
   - **Creative UI/UX Integration**
-- 🌍 Aim: To become a versatile Engineer who can build scalable and intuitive apps that matter
+- 🌍 Aim: To become a versatile developer who can build scalable and intuitive apps that matter
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🧑‍💻 Programming Languages
-- Java • Python • Dart • C • C++ • JavaScript
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Web Technologies
-- HTML5 • CSS3 • HTMX • JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-0099ff?style=for-the-badge&logoColor=white)
 
 ### 📱 Mobile Development
-- Flutter (using Dart)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries
-- Django (Python)
-- React (JavaScript)
-- Node.js + Express (JavaScript)
-- ASP.NET (Currently Learning)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ### 🗃️ Databases
-- MySQL • MongoDB
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ☁️ Cloud & Dev Tools
-- Firebase (Authentication & Realtime DB)
-- Postman (API Testing)
-- Figma (Design & Prototyping)
-- VS Code (Primary IDE)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -71,26 +80,17 @@ Hi there! I'm **Veeramanikandan**, a passionate developer currently pursuing my 
 ## 🏆 Achievements
 
 - 🥇 Presented **MemoTrack** at a **National-Level Project Contest** conducted by **Sri Manakula Vinayagar Engineering College**, Puducherry
-
-
----
-
-## ✨ What Makes Me Unique
-
-- ⚡ Quick learner with a strong academic background (CGPA: **9.10**)
-- 🧠 Ability to grasp complex tech concepts and apply them practically
-- 🤝 Team player with leadership experience and clear communication
-- 💬 Bilingual: Fluent in **Tamil** and **English**
+- 🏅 Secured Gold Medals in **U-14** and **U-17** district-level competitions
+- 🏅 Gold Medalist at **Aadukalam**, conducted by Lions Club, Chidambaram
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Connect With Me
 
-- 📧 Email: **eveera5603@gmail.com**
-- 💼 LinkedIn: [Veeramanikandan](https://www.linkedin.com/in/veeramanikandane335559312)
-- 🐙 GitHub: [VEERA5603](https://github.com/VEERA5603)
+[![Email](https://img.shields.io/badge/Gmail-eveera5603@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eveera5603@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veeramanikandane335559312)
+[![GitHub](https://img.shields.io/badge/GitHub-VEERA5603-181717?style=for-the-badge&logo=github)](https://github.com/VEERA5603)
 
 ---
 
 > 🧠 *“Learning to write programs stretches your mind and helps you think better — it creates a way of thinking about things that I think is helpful in all domains.”* – **Bill Gates**
-

@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Veeramanikandan</h1>
 <p align="center">
   🎓 Final Year B.E. (Information Technology) Student at <strong>Annamalai University</strong> <br>
-  💻 Aspiring Full-Stack Developer | 💡 Tech Explorer | 🔍 Lifelong Learner
+  💻 Aspiring Full-Stack Engineer | 💡 Tech Explorer | 🔍 Lifelong Learner
 </p>
 
 ---
@@ -49,7 +49,7 @@ Hi there! I'm **Veeramanikandan**, a passionate Engineer currently pursuing my B
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
 
 ### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -80,8 +80,7 @@ Hi there! I'm **Veeramanikandan**, a passionate Engineer currently pursuing my B
 ## 🏆 Achievements
 
 - 🥇 Presented **MemoTrack** at a **National-Level Project Contest** conducted by **Sri Manakula Vinayagar Engineering College**, Puducherry
-- 🏅 Secured Gold Medals in **U-14** and **U-17** district-level competitions
-- 🏅 Gold Medalist at **Aadukalam**, conducted by Lions Club, Chidambaram
+
 
 ---
 

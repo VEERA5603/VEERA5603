@@ -45,6 +45,7 @@ Hi there! I'm **Veeramanikandan**, a passionate Engineer currently pursuing my B
 
 ### ⚙️ Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -74,14 +75,7 @@ Hi there! I'm **Veeramanikandan**, a passionate Engineer currently pursuing my B
 | Database Management      | ✅ 75%               |
 | DevOps & Deployment      | 🧪 Learning Phase    |
 
----
 
-## 🏆 Achievements
-
-- 🥇 Presented **MemoTrack** at a **National-Level Project Contest** conducted by **Sri Manakula Vinayagar Engineering College**, Puducherry
-
-
----
 
 ## 📫 Connect With Me
 

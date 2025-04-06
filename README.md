@@ -19,10 +19,9 @@ Hi there! I'm **Veeramanikandan**, a passionate Engineer currently pursuing my B
 - 🌱 Currently learning: `ASP.NET`, `C#`, advanced backend logic, and system design
 - 💡 Interested in:
   - **Full-Stack Development** (Web & Mobile)
-  - **Machine Learning & AI**
   - **Backend Engineering**
   - **Creative UI/UX Integration**
-- 🌍 Aim: To become a versatile developer who can build scalable and intuitive apps that matter
+- 🌍 Aim: To become a versatile Engineer who can build scalable and intuitive apps that matter
 
 ---
 

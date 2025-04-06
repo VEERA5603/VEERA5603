@@ -1,82 +1,96 @@
-<h1 align="center">👋 Hello World! I'm Veeramanikandan</h1>
-
+<h1 align="center">👋 Hello, I'm Veeramanikandan</h1>
 <p align="center">
-  🎓 Final Year B.E. (I.T.) | 💻 Full-Stack Developer (Web & Mobile) | 🌱 Lifelong Learner
+  🎓 Final Year B.E. (Information Technology) Student at <strong>Annamalai University</strong> <br>
+  💻 Aspiring Full-Stack Engineer | 💡 Tech Explorer | 🔍 Lifelong Learner
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Final Year Information Technology student at **Annamalai University**
-- 📚 CGPA: **9.10**
-- 🌐 Exploring **Full-Stack Development** across **Web** and **Mobile**
-- ⚙️ Currently learning **ASP.NET**, **C#**, and backend engineering
-- 🎯 I love building interactive apps that solve real-world problems
+Hi there! I'm **Veeramanikandan**, a passionate developer currently pursuing my Bachelor’s in Information Technology. I love solving real-world problems through code and continuously expanding my skillset. I'm deeply interested in full-stack development—both web and mobile—and currently diving into **ASP.NET** and **C#** to boost my backend expertise.
+
+> 🔎 I believe in learning by building, and every bug is just another puzzle waiting to be solved.
 
 ---
 
-## 🧠 Tech Stack – What I Know
+## 🎯 Goals & Interests
 
-### 💬 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+- 🌱 Currently learning: `ASP.NET`, `C#`, advanced backend logic, and system design
+- 💡 Interested in:
+  - **Full-Stack Development** (Web & Mobile)
+  - **Machine Learning & AI**
+  - **Backend Engineering**
+  - **Creative UI/UX Integration**
+- 🌍 Aim: To become a versatile Engineer who can build scalable and intuitive apps that matter
 
-### 🌐 Web Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTMX-blue?style=for-the-badge"/>
-</p>
+---
 
-### 📱 Mobile App Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-</p>
+## 🛠️ Tech Stack
+
+### 🧑‍💻 Programming Languages
+- Java • Python • Dart • C • C++ • JavaScript
+
+### 🌐 Web Technologies
+- HTML5 • CSS3 • HTMX • JavaScript
+
+### 📱 Mobile Development
+- Flutter (using Dart)
 
 ### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
+- Django (Python)
+- React (JavaScript)
+- Node.js + Express (JavaScript)
+- ASP.NET (Currently Learning)
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+### 🗃️ Databases
+- MySQL • MongoDB
 
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+### ☁️ Cloud & Dev Tools
+- Firebase (Authentication & Realtime DB)
+- Postman (API Testing)
+- Figma (Design & Prototyping)
+- VS Code (Primary IDE)
+
+---
+
+## 📊 Project Involvement Status
+
+| Domain                    | Percentage Completed |
+|--------------------------|----------------------|
+| Web Development          | ✅ 85%               |
+| Mobile App Development   | ✅ 70%               |
+| Backend Engineering      | 🛠️ 65%              |
+| UI/UX Design             | ✅ 80%               |
+| API Integration & Testing| ✅ 90%               |
+| Database Management      | ✅ 75%               |
+| DevOps & Deployment      | 🧪 Learning Phase    |
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Participated in a **National-Level Project Contest** at **Sri Manakula Vinayagar Engineering College**
+- 🥇 Presented **MemoTrack** at a **National-Level Project Contest** conducted by **Sri Manakula Vinayagar Engineering College**, Puducherry
+
 
 ---
 
-## 📫 Let's Connect
+## ✨ What Makes Me Unique
+
+- ⚡ Quick learner with a strong academic background (CGPA: **9.10**)
+- 🧠 Ability to grasp complex tech concepts and apply them practically
+- 🤝 Team player with leadership experience and clear communication
+- 💬 Bilingual: Fluent in **Tamil** and **English**
+
+---
+
+## 📫 How to Reach Me
 
 - 📧 Email: **eveera5603@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/veeramanikandane335559312)
-- 🐙 [GitHub](https://github.com/VEERA5603)
+- 💼 LinkedIn: [Veeramanikandan](https://www.linkedin.com/in/veeramanikandane335559312)
+- 🐙 GitHub: [VEERA5603](https://github.com/VEERA5603)
 
 ---
 
-> 💬 *“Code is not just about syntax, it's about solving problems and building a better future.”* – **Veera**
+> 🧠 *“Learning to write programs stretches your mind and helps you think better — it creates a way of thinking about things that I think is helpful in all domains.”* – **Bill Gates**
+

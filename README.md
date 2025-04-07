@@ -6,6 +6,8 @@
 
 ---
 
+https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif
+
 ## 🚀 About Me
 
 Hi there! I'm **Veeramanikandan**, a passionate Engineer currently pursuing my Bachelor’s in Information Technology. I love solving real-world problems through code and continuously expanding my skillset. I'm deeply interested in full-stack development—both web and mobile—and currently diving into **ASP.NET** and **C#** to boost my backend expertise.

@@ -1,3 +1,5 @@
+![Animated Image](https://example.com/animated.gif)
+
 <h1 align="center">👋 Hello, I'm Veeramanikandan</h1>
 <p align="center">
   🎓 Final Year B.E. (Information Technology) Student at <strong>Annamalai University</strong> <br>
@@ -6,11 +8,9 @@
 
 ---
 
-<center> ![Animated Image](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif) </center>
-
 ## 🚀 About Me
 
-Hi there! I'm **Veeramanikandan**, a passionate Engineer currently pursuing my Bachelor’s in Information Technology. I love solving real-world problems through code and continuously expanding my skillset. I'm deeply interested in full-stack development—both web and mobile—and currently diving into **ASP.NET** and **C#** to boost my backend expertise.
+Hi there! I'm **Veeramanikandan**, a passionate Engineer currently pursuing my Bachelor’s in Information Technology. I love solving real-world problems through code and continuously expanding my knowledge.
 
 > 🔎 I believe in learning by building, and every bug is just another puzzle waiting to be solved.
 
@@ -52,7 +52,6 @@ Hi there! I'm **Veeramanikandan**, a passionate Engineer currently pursuing my B
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-
 ### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -76,7 +75,6 @@ Hi there! I'm **Veeramanikandan**, a passionate Engineer currently pursuing my B
 | API Integration & Testing| ✅ 90%               |
 | Database Management      | ✅ 75%               |
 | DevOps & Deployment      | 🧪 Learning Phase    |
-
 
 ##  Resume
 [![Resume](https://img.shields.io/badge/Resume-VEERA5603/VEERA5603-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VEERA5603/VEERA5603/blob/main/Veera%20B.E-I.T-%20Resume.pdf)

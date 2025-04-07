@@ -76,6 +76,8 @@ Hi there! I'm **Veeramanikandan**, a passionate Engineer currently pursuing my B
 | DevOps & Deployment      | 🧪 Learning Phase    |
 
 
+##  Resume
+[![Resume](https://img.shields.io/badge/Resume-VEERA5603/VEERA5603-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VEERA5603/VEERA5603/blob/main/Veera%20B.E-I.T-%20Resume.pdf)
 
 ## 📫 Connect With Me
 

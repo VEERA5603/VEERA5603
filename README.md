@@ -62,10 +62,9 @@ Hi there! I'm **Veeramanikandan**, a passionate Engineer currently pursuing my B
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### ![Payment Gateway](https://img.shields.io/badge/Payment%20Gateway-Important-blue?style=for-the-badge)
+### 💰 Payment Gateway Integration
 
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
-
 
 ---
 

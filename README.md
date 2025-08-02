@@ -2,15 +2,15 @@
 
 <h1 align="center">👋 Hello, I'm Veeramanikandan</h1>
 <p align="center">
-  🎓 Final Year B.E. (Information Technology) Student at <strong>Annamalai University</strong> <br>
-  💻 Aspiring Full-Stack Engineer | 💡 Tech Explorer | 🔍 Lifelong Learner
+  
+  💻 Aspiring Software Engineer  | 💡 Tech Explorer | 🔍 Lifelong Learner
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Hi there! I'm **Veeramanikandan**, a passionate Engineer currently pursuing my Bachelor’s in Information Technology. I love solving real-world problems through code and continuously expanding my knowledge.
+Hi there! I'm **Veeramanikandan**, a passionate Engineer in Information Technology. I love solving real-world problems through code and continuously expanding my knowledge.
 
 > 🔎 I believe in learning by building, and every bug is just another puzzle waiting to be solved.
 
@@ -18,7 +18,7 @@ Hi there! I'm **Veeramanikandan**, a passionate Engineer currently pursuing my B
 
 ## 🎯 Goals & Interests
 
-- 🌱 Currently learning: `ASP.NET`, `C#`, advanced backend logic, and system design
+- 🌱 Currently learning: `Spring Boot`, `Kotlin`, advanced backend logic, and system design
 - 💡 Interested in:
   - **Full-Stack Development** (Web & Mobile)
   - **Backend Engineering**
@@ -30,11 +30,11 @@ Hi there! I'm **Veeramanikandan**, a passionate Engineer currently pursuing my B
 ## 🛠️ Tech Stack
 
 ### 🧑‍💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Web Technologies
@@ -43,12 +43,13 @@ Hi there! I'm **Veeramanikandan**, a passionate Engineer currently pursuing my B
 ![HTMX](https://img.shields.io/badge/HTMX-0099ff?style=for-the-badge&logoColor=white)
 
 ### 📱 Mobile Development
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
